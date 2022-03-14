@@ -1,5 +1,5 @@
 This is another file to be sent to repo. This is edited.
-And edited again
+This is the first line
 This is the second line 
 This is the third line
 
